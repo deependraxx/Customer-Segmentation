@@ -58,25 +58,20 @@ The dataset used in this project is a mall customer dataset, which contains the 
 ## Conclusion
 The customer segmentation project effectively identified patterns in customer behavior. The analysis highlights that while age has some influence on spending score, other factors like income and gender also play a role. The models provide a good starting point for predicting customer spending patterns, but further refinement could improve accuracy.
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   cd Customer-Segmentation-Project
-
 
 ## How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/deependraxx/Customer-Segmentation-Project.git
-Navigate to the project directory:
+2. Navigate to the project directory:
 ```bash
   cd Customer-Segmentation-Project
 ```
-Install the required libraries:
+3. Install the required libraries:
 ```bash
 pip install -r requirements.txt
 ```
-Run the Jupyter Notebook to see the analysis:
+4. Run the Jupyter Notebook to see the analysis:
 ```
 jupyter notebook Customer_Segmentation.ipynb
 ```
