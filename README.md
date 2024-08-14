@@ -72,10 +72,10 @@ The customer segmentation project effectively identified patterns in customer be
    jupyter notebook Customer_Segmentation.ipynb
 ```
 ## Requirements
-Python 3.7 or above
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-scipy
+1.Python 3.7 or above
+2.pandas
+3.numpy
+4.matplotlib
+5.seaborn
+6.scikit-learn
+7.scipy
