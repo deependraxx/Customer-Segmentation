@@ -38,7 +38,7 @@ The dataset used in this project is a mall customer dataset, which contains the 
 - **Dropping CustomerID:** The `CustomerID` column was dropped as it does not contribute to the predictive model.
 
 ## Model Building
-### 1. **Logistic Regression:**
+### **Logistic Regression:**
    - **Objective:** Classify customers into two categories based on whether their spending score is above or below the average.
    - **Model Performance:** Evaluated using accuracy score and confusion matrix.
 
