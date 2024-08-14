@@ -56,8 +56,9 @@ The customer segmentation project effectively identified patterns in customer be
 
 ## How to Run
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/deependraxx/Customer-Segmentation-Project.git
+```
 2. Navigate to the project directory:
 ```bash
    cd Customer-Segmentation-Project
