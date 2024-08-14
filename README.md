@@ -38,16 +38,11 @@ The dataset used in this project is a mall customer dataset, which contains the 
 - **Dropping CustomerID:** The `CustomerID` column was dropped as it does not contribute to the predictive model.
 
 ## Model Building
-### 1. **Linear Regression:**
-   - **Objective:** Predict `Spending Score (1-100)` based on `Age`, `Annual Income (k$)`, and `Gender`.
-   - **Model Performance:** Evaluated using Mean Squared Error (MSE).
-
-### 2. **Logistic Regression:**
+### 1. **Logistic Regression:**
    - **Objective:** Classify customers into two categories based on whether their spending score is above or below the average.
    - **Model Performance:** Evaluated using accuracy score and confusion matrix.
 
 ## Model Evaluation
-- **Linear Regression:** Achieved an MSE of approximately 0.72, indicating a moderate fit to the data.
 - **Logistic Regression:** Achieved an accuracy of approximately 75%, indicating decent performance in classifying customers.
 
 ## Visualizations
@@ -65,15 +60,15 @@ The customer segmentation project effectively identified patterns in customer be
    git clone https://github.com/deependraxx/Customer-Segmentation-Project.git
 2. Navigate to the project directory:
 ```bash
-  cd Customer-Segmentation-Project
+   cd Customer-Segmentation-Project
 ```
 3. Install the required libraries:
 ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 ```
 4. Run the Jupyter Notebook to see the analysis:
 ```
-jupyter notebook Customer_Segmentation.ipynb
+   jupyter notebook Customer_Segmentation.ipynb
 ```
 ## Requirements
 Python 3.7 or above
